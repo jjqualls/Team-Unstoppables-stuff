@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "661d3420e1c084eacc938cab"
+  },
+  "fullName": "asdf",
+  "email": "st@mail.com",
+  "message": "sadfasdf",
+  "createdAt": {
+    "$date": "2024-04-15T14:05:20.125Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-15T14:05:20.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d368be1c084eacc938caf"
+  },
+  "fullName": "Sai Tharun Manupati",
+  "email": "st@mail.com",
+  "message": "Hey, Looking for some Contractors.\nCan you give me your next availability",
+  "createdAt": {
+    "$date": "2024-04-15T14:15:39.279Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-15T14:15:39.279Z"
+  },
+  "__v": 0
+}]
